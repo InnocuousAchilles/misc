@@ -1,3 +1,5 @@
+![Travis CI Build Status](https://travis-ci.org/InnocuousAchilles/misc.svg?branch=master)
+
 Setup
 =====
 
